@@ -8,29 +8,29 @@ https://scimaap.net
 
 | Subsystem          | NASA OPS                    | ESA OPS |
 | ------------------ | --------------------------- | ------- |
-| Web Portal         | ops.maap-project.org        | TBD     |
-| ADE                | ade.ops.maap-project.org    | TBD     |
-| Authentication     | auth.ops.maap-project.org   | TBD     |
-| API                | api.ops.maap-project.org    | TBD     |
+| Web Portal         | ops.maap-project.org        |         |
+| ADE                | ade.ops.maap-project.org    |         |
+| Authentication     | auth.ops.maap-project.org   |         |
+| API                | api.ops.maap-project.org    |         |
 | Code Repository    | repo.ops.maap-project.org   | N/A     |
-| Algorithm Registry | mas.ops.maap-project.org    | TBD     |
+| Algorithm Registry | mas.ops.maap-project.org    |         |
 | CMR                | cmr.ops.maap-project.org    | N/A     |
 | Earthdata Search   | search.ops.maap-project.org | N/A     |
-| EDAV               | N/A                         | TBD     |
+| EDAV               | N/A                         |         |
 
 ## Test Environment
 
 | Subsystem          | NASA UAT                    | ESA UAT |
 | ------------------ | --------------------------- | ------- |
-| Web Portal         | uat.maap-project.org        | TBD     |
-| ADE                | ade.uat.maap-project.org    | TBD     |
-| Authentication     | auth.uat.maap-project.org   | TBD     |
-| API                | api.uat.maap-project.org    | TBD     |
+| Web Portal         | uat.maap-project.org        |         |
+| ADE                | ade.uat.maap-project.org    |         |
+| Authentication     | auth.uat.maap-project.org   |         |
+| API                | api.uat.maap-project.org    |         |
 | Code Repository*    | repo.uat.maap-project.org   | N/A     |
-| Algorithm Registry | mas.uat.maap-project.org    | TBD     |
+| Algorithm Registry | mas.uat.maap-project.org    |         |
 | CMR                | cmr.uat.maap-project.org    | N/A     |
 | Earthdata Search   | search.uat.maap-project.org | N/A     |
-| EDAV               | N/A                         | TBD     |
+| EDAV               | N/A                         |         |
 
 * The current joint Gitlab repository is hosted in our UAT environment. It will need to be moved to the Ops environment.
 
@@ -38,16 +38,16 @@ https://scimaap.net
 
 | Subsystem          | NASA Dev                    | ESA Dev |
 | ------------------ | --------------------------- | ------- |
-| Web Portal         | dit.maap-project.org        | TBD     |
-| ADE                | ade.dit.maap-project.org    | TBD     |
-| Authentication     | auth.dit.maap-project.org   | TBD     |
-| API                | api.dit.maap-project.org    | TBD     |
+| Web Portal         | dit.maap-project.org        |         |
+| ADE                | ade.dit.maap-project.org    |         |
+| Authentication     | auth.dit.maap-project.org   |         |
+| API                | api.dit.maap-project.org    |         |
 | Code Repository    | repo.dit.maap-project.org   | N/A     |
-| Algorithm Registry | mas.dit.maap-project.org    | TBD     |
+| Algorithm Registry | mas.dit.maap-project.org    |         |
 | CMR                |                             | N/A     |
 | Earthdata Search   |                             | N/A     |
 | Dashboard          | dashboard.dit.maap-project.org | N/A  |
-| EDAV               | N/A                         | TBD     |
+| EDAV               | N/A                         |         |
 
 ## NASA Legacy Pilot Ops Environment
 

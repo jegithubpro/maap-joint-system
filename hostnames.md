@@ -12,7 +12,7 @@ https://scimaap.net
 | ADE                | ade.ops.maap-project.org    | TBD     |
 | Authentication     | auth.ops.maap-project.org   | TBD     |
 | API                | api.ops.maap-project.org    | TBD     |
-| Code Repository    | repo.ops.maap-project.org   | TBD     |
+| Code Repository    | repo.ops.maap-project.org   | N/A     |
 | Algorithm Registry | mas.ops.maap-project.org    | TBD     |
 | CMR                | cmr.ops.maap-project.org    | N/A     |
 | Earthdata Search   | search.ops.maap-project.org | N/A     |
@@ -26,11 +26,13 @@ https://scimaap.net
 | ADE                | ade.uat.maap-project.org    | TBD     |
 | Authentication     | auth.uat.maap-project.org   | TBD     |
 | API                | api.uat.maap-project.org    | TBD     |
-| Code Repository    | repo.uat.maap-project.org   | TBD     |
+| Code Repository*    | repo.uat.maap-project.org   | N/A     |
 | Algorithm Registry | mas.uat.maap-project.org    | TBD     |
 | CMR                | cmr.uat.maap-project.org    | N/A     |
 | Earthdata Search   | search.uat.maap-project.org | N/A     |
 | EDAV               | N/A                         | TBD     |
+
+* The current joint Gitlab repository is hosted in our UAT environment. It will need to be moved to the Ops environment.
 
 ## Dev Environment
 
@@ -40,7 +42,7 @@ https://scimaap.net
 | ADE                | ade.dit.maap-project.org    | TBD     |
 | Authentication     | auth.dit.maap-project.org   | TBD     |
 | API                | api.dit.maap-project.org    | TBD     |
-| Code Repository    | repo.dit.maap-project.org   | TBD     |
+| Code Repository    | repo.dit.maap-project.org   | N/A     |
 | Algorithm Registry | mas.dit.maap-project.org    | TBD     |
 | CMR                |                             | N/A     |
 | Earthdata Search   |                             | N/A     |

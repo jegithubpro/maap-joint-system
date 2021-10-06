@@ -6,17 +6,17 @@ https://scimaap.net
 
 ## Ops Environment
 
-| Subsystem          | NASA OPS                    | ESA OPS |
-| ------------------ | --------------------------- | ------- |
-| Web Portal         | ops.maap-project.org        |         |
-| ADE                | ade.ops.maap-project.org    |         |
-| Authentication     | auth.ops.maap-project.org   |         |
-| API                | api.ops.maap-project.org    |         |
-| Code Repository    | repo.ops.maap-project.org   | N/A     |
-| Algorithm Registry | mas.ops.maap-project.org    |         |
-| CMR                | cmr.ops.maap-project.org    | N/A     |
-| Earthdata Search   | search.ops.maap-project.org | N/A     |
-| EDAV               | N/A                         |         |
+| Subsystem          | NASA OPS                    | ESA OPS                  |  
+| ------------------ | --------------------------- | --------------- ---------|
+| Web Portal         | ops.maap-project.org        | esa-maap.org             |
+| ADE                | ade.ops.maap-project.org    |                          |
+| Authentication     | auth.ops.maap-project.org   | iam.val.esa-maap.org     |
+| API                | api.ops.maap-project.org    | gravitee.val.esa-maap.org|
+| Code Repository    | repo.ops.maap-project.org   | N/A                      |
+| Algorithm Registry | mas.ops.maap-project.org    |                          |
+| CMR                | cmr.ops.maap-project.org    | N/A                      |
+| Earthdata Search   | search.ops.maap-project.org | N/A                      |
+| EDAV               | N/A                         | eav-ui.dev.esa-maap.org  |
 
 ## Test Environment
 

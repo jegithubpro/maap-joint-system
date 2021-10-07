@@ -7,7 +7,7 @@ https://scimaap.net
 ## Ops Environment
 
 | Subsystem          | NASA OPS                    | ESA OPS                  |  
-| ------------------ | --------------------------- | --------------- ---------|
+| ------------------ | --------------------------- | -------------------------|
 | Web Portal         | ops.maap-project.org        | esa-maap.org             |
 | ADE                | ade.ops.maap-project.org    |                          |
 | Authentication     | auth.ops.maap-project.org   | iam.val.esa-maap.org     |

@@ -16,7 +16,7 @@ https://scimaap.net
 | Algorithm Registry | mas.ops.maap-project.org    |                          |
 | CMR                | cmr.ops.maap-project.org    | N/A                      |
 | Earthdata Search   | search.ops.maap-project.org | N/A                      |
-| EDAV               | N/A                         | eav-ui.dev.esa-maap.org  |
+| EDAV               | N/A                         | edav-ui.val.esa-maap.org |
 
 ## Test Environment
 
@@ -26,7 +26,7 @@ https://scimaap.net
 | ADE                | ade.uat.maap-project.org    |         |
 | Authentication     | auth.uat.maap-project.org   |         |
 | API                | api.uat.maap-project.org    |         |
-| Code Repository*    | repo.uat.maap-project.org   | N/A     |
+| Code Repository*    | repo.uat.maap-project.org  | N/A     |
 | Algorithm Registry | mas.uat.maap-project.org    |         |
 | CMR                | cmr.uat.maap-project.org    | N/A     |
 | Earthdata Search   | search.uat.maap-project.org | N/A     |
